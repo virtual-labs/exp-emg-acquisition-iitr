@@ -1,39 +1,52 @@
-{
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+[
+  {
+    "question": "The EMG signal is primarily generated due to:",
+    "answers": {
+      "a": "Depolarization and repolarization of muscle fibers",
+      "b": "Blood flow through muscles",
+      "c": "Skin resistance changes",
+      "d": "Tendon vibration"
     },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+    "correctAnswer": "a"
+  }, 
+  {
+    "question": "A motor unit consists of:",
+    "answers": {
+      "a": "A muscle fiber and tendon",
+      "b": "An α-motor neuron and the muscle fibers it innervates",
+      "c": "Only a single muscle fiber",
+      "d": "A cluster of sensory receptors"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "At rest, the EMG signal amplitude is typically:",
+    "answers": {
+      "a": "5–10 mV",
+      "b": "Below 10 µV",
+      "c": "Constant at 1 mV",
+      "d": "20–30 mV"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which tissue layer attenuates EMG amplitude most in surface EMG?",
+    "answers": {
+      "a": "Bone",
+      "b": "Fat and skin",
+      "c": "Blood vessels",
+      "d": "Tendons"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "The typical EMG frequency range for meaningful signals is:",
+    "answers": {
+      "a": "0–5 Hz",
+      "b": "10–500 Hz",
+      "c": "1–10 kHz",
+      "d": "Above 20 kHz"
+    },
+    "correctAnswer": "b"
+  }
+]

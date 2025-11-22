@@ -1,1 +1,1 @@
-## Experiment name
+## Acquisition of EMG signals using biomedical systems
