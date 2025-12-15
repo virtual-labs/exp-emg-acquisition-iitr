@@ -1,0 +1,1 @@
+#### To acquire the Electromyogram (EMG) signal from the muscle using a biomedical system and study the electrical activity associated with muscle contraction.

@@ -1,0 +1,52 @@
+[
+	{
+		"question": "When a motor neuron fires, all connected muscle fibers contract together, producing:",
+		"answers": {
+			"a": " A single-fiber spike ",
+			"b": " A motor unit action potential (MUAP) ",
+			"c": " A low-frequency tremor ",
+			"d": " A tendon reflex "
+		},
+		"correctAnswer": "b"
+	},
+	{
+		"question": "During strong contraction, the EMG shows:",
+		"answers": {
+			"a": " Lower amplitude due to fatigue ",
+			"b": " Reduced frequency components ",
+			"c": " Higher amplitude and denser motor unit firing ",
+			"d": " Only baseline drift "
+		},
+		"correctAnswer": "c"
+	},
+	{
+		"question": "If the E+ and E– electrodes are incorrectly swapped during acquisition:",
+		"answers": {
+			"a": " No signal will appear ",
+			"b": " The EMG waveform may invert or distort ",
+			"c": " Contraction amplitude increases ",
+			"d": " Only noise is recorded "
+		},
+		"correctAnswer": "b"
+	},
+	{
+		"question": "If the E+ and E– electrodes are incorrectly swapped during acquisition (duplicate):",
+		"answers": {
+			"a": " No signal will appear ",
+			"b": " The EMG waveform may invert or distort ",
+			"c": " Contraction amplitude increases ",
+			"d": " Only noise is recorded "
+		},
+		"correctAnswer": "b"
+	},
+	{
+		"question": "In needle EMG, recording localized motor unit activity is possible because:",
+		"answers": {
+			"a": " The electrode removes skin impedance ",
+			"b": " It is placed close to a small number of muscle fibers ",
+			"c": " It amplifies all muscle activity ",
+			"d": " It filters out MUAPs "
+		},
+		"correctAnswer": "b"
+	}
+]
